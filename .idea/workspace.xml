@@ -2,28 +2,64 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7dbeaf5-4518-4bbd-be73-9d4c0e27da93" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/five/ArrayInit.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/five/ArrayNew.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/five/ArrayReverse.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/five/Burrito.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/five/DynamicArray.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/five/ExplicitStatic.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/five/FinalizeTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/five/InitialValues.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/five/MethodInit3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/five/Mugs.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/five/NewVarArgs.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/five/OrderOfInitialization.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/five/OverloadingVarargs2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/five/SimpleEnumUse.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/five/Spiciness.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/five/StaticInitialization.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/five/Tank.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/five/TerminationCondition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/five/VarargType.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/six/PrintTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/six/net/mindview/util/Print.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/leozzy/five/Flower.class" afterPath="$PROJECT_DIR$/out/production/ThinkingInJava/com/leozzy/five/Flower.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/eight/Base.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/eight/FieldAccess.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/eight/Generator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/eight/Music.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/eight/Note.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/eight/Sandwich.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/eight/Shapes.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/eight/StaticPolymorphism.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/eleven/AddingGroups.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/eleven/AppleAndOrangesWithoutGenerics.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/eleven/AsListInference.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/eleven/GenericsAndUcasting.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/eleven/Gerbil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/eleven/ListFeatures.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/eleven/RandomAccessTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/eleven/RandomAccessTimeTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/eleven/SimpleCollection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/eleven/collection/ComparableSort.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/eleven/collection/ComparatorSort.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/eleven/collection/Dog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/seven/A.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/seven/B.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/seven/Bath.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/seven/Beetle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/seven/C.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/seven/CADSystem.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/seven/Car.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/seven/Chess.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/seven/Detergent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/seven/Orc.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/seven/SpaceShipControls.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/seven/SpaceShipDelegation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/seven/Wind.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/seven/finalKey/BlankFinal.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/seven/finalKey/FinalArguments.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/seven/finalKey/FinalData.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/seven/finalKey/FinalOverridingIllusion.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/seven/finalKey/Jurassic.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/six/Connection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/six/ConnectionManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/six/Lunch.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/six/Sundae.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/six/access/ChocolateChip2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/six/access/Dinner.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/six/access/FatherClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/six/access/cookie2/Cookie.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/six/access/dessert/Cookie.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/six/access/dessert/Dinner.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/six/access/dessert/dinner/Dinner.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/six/access/sonpackage/SonClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/six/access/sonpackage/SonClass2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/six/access/sonpackage/TestSon.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/protectedaccess/parentpackage/Parent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/protectedaccess/parentpackage/sonpackage1/Son1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/protectedaccess/parentpackage/sonpackage1/Son3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/protectedaccess/parentpackage/sonpackage2/Son2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/leozzy/five/Burrito$1.class" afterPath="$PROJECT_DIR$/out/production/ThinkingInJava/com/leozzy/five/Burrito$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/leozzy/five/Burrito.class" afterPath="$PROJECT_DIR$/out/production/ThinkingInJava/com/leozzy/five/Burrito.class" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,34 +70,29 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="PrintTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/leozzy/six/PrintTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" column="46" lean-forward="false" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
-              <folding>
-                <element signature="e#215#216#0" expanded="true" />
-                <element signature="e#244#245#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Print.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/leozzy/six/net/mindview/util/Print.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="Sandwich.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/leozzy/eight/Sandwich.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="351">
-              <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+              <caret line="46" column="23" lean-forward="true" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="23" />
               <folding>
-                <element signature="e#159#160#0" expanded="true" />
-                <element signature="e#198#199#0" expanded="true" />
-                <element signature="e#230#231#0" expanded="true" />
-                <element signature="e#266#267#0" expanded="true" />
-                <element signature="e#310#311#0" expanded="true" />
-                <element signature="e#349#350#0" expanded="true" />
-                <element signature="e#417#418#0" expanded="true" />
-                <element signature="e#470#471#0" expanded="true" />
+                <element signature="e#107#108#0" expanded="true" />
+                <element signature="e#151#152#0" expanded="true" />
+                <element signature="e#179#180#0" expanded="true" />
+                <element signature="e#224#225#0" expanded="true" />
+                <element signature="e#254#255#0" expanded="true" />
+                <element signature="e#300#301#0" expanded="true" />
+                <element signature="e#332#333#0" expanded="true" />
+                <element signature="e#379#380#0" expanded="true" />
+                <element signature="e#420#421#0" expanded="true" />
+                <element signature="e#465#466#0" expanded="true" />
+                <element signature="e#523#524#0" expanded="true" />
+                <element signature="e#576#577#0" expanded="true" />
+                <element signature="e#757#758#0" expanded="true" />
+                <element signature="e#805#806#0" expanded="true" />
+                <element signature="e#851#852#0" expanded="true" />
+                <element signature="e#881#882#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -77,6 +108,17 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>toString()</find>
+      <find>hashCo</find>
+      <find>compareTo</find>
+      <find>add()</find>
+      <find>get</find>
+      <find>add</find>
+      <find>final</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -88,32 +130,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/leozzy/five/StringTest.java" />
-        <option value="$PROJECT_DIR$/src/com/leozzy/five/ThisTest01.java" />
-        <option value="$PROJECT_DIR$/src/com/leozzy/five/PassingThis.java" />
-        <option value="$PROJECT_DIR$/src/com/leozzy/five/Flower.java" />
-        <option value="$PROJECT_DIR$/src/com/leozzy/five/Book.java" />
-        <option value="$PROJECT_DIR$/src/com/leozzy/five/TerminationCondition.java" />
-        <option value="$PROJECT_DIR$/src/com/leozzy/five/FinalizeTest.java" />
-        <option value="$PROJECT_DIR$/src/com/leozzy/five/Tank.java" />
-        <option value="$PROJECT_DIR$/src/com/leozzy/five/ArrayReverse.java" />
-        <option value="$PROJECT_DIR$/src/com/leozzy/five/InitialValues.java" />
-        <option value="$PROJECT_DIR$/src/com/leozzy/five/MethodInit3.java" />
-        <option value="$PROJECT_DIR$/src/com/leozzy/five/OrderOfInitialization.java" />
-        <option value="$PROJECT_DIR$/src/com/leozzy/five/StaticInitialization.java" />
-        <option value="$PROJECT_DIR$/src/com/leozzy/five/ExplicitStatic.java" />
-        <option value="$PROJECT_DIR$/src/com/leozzy/five/Mugs.java" />
-        <option value="$PROJECT_DIR$/src/com/leozzy/five/ArrayNew.java" />
-        <option value="$PROJECT_DIR$/src/com/leozzy/five/ArrayInit.java" />
-        <option value="$PROJECT_DIR$/src/com/leozzy/five/DynamicArray.java" />
-        <option value="$PROJECT_DIR$/src/com/leozzy/five/NewVarArgs.java" />
-        <option value="$PROJECT_DIR$/src/com/leozzy/five/VarargType.java" />
-        <option value="$PROJECT_DIR$/src/com/leozzy/five/OverloadingVarargs2.java" />
-        <option value="$PROJECT_DIR$/src/com/leozzy/five/Spiciness.java" />
-        <option value="$PROJECT_DIR$/src/com/leozzy/five/SimpleEnumUse.java" />
-        <option value="$PROJECT_DIR$/src/com/leozzy/five/Burrito.java" />
-        <option value="$PROJECT_DIR$/src/com/leozzy/six/net/mindview/util/Print.java" />
-        <option value="$PROJECT_DIR$/src/com/leozzy/six/PrintTest.java" />
+        <option value="$PROJECT_DIR$/src/com/leozzy/six/Lunch.java" />
+        <option value="$PROJECT_DIR$/src/com/leozzy/six/Connection.java" />
+        <option value="$PROJECT_DIR$/src/com/leozzy/six/ConnectionManager.java" />
+        <option value="$PROJECT_DIR$/src/com/leozzy/seven/Soap.java" />
+        <option value="$PROJECT_DIR$/src/com/leozzy/seven/Bath.java" />
+        <option value="$PROJECT_DIR$/src/com/leozzy/seven/Detergent.java" />
+        <option value="$PROJECT_DIR$/src/com/leozzy/six/DetergentTest.java" />
+        <option value="$PROJECT_DIR$/src/com/leozzy/seven/C.java" />
+        <option value="$PROJECT_DIR$/src/com/leozzy/seven/A.java" />
+        <option value="$PROJECT_DIR$/src/com/leozzy/seven/B.java" />
+        <option value="$PROJECT_DIR$/src/com/leozzy/seven/Chess.java" />
+        <option value="$PROJECT_DIR$/src/com/leozzy/seven/SpaceShipControls.java" />
+        <option value="$PROJECT_DIR$/src/com/leozzy/seven/SpaceShipDelegation.java" />
+        <option value="$PROJECT_DIR$/src/test/com/leozzy/seven/SpaceShipDelegationTest.java" />
+        <option value="$PROJECT_DIR$/src/com/leozzy/eleven/AppleAndOrangesWithoutGenerics.java" />
+        <option value="$PROJECT_DIR$/src/com/leozzy/eleven/GenericsAndUcasting.java" />
+        <option value="$PROJECT_DIR$/src/com/leozzy/eleven/Gerbil.java" />
+        <option value="$PROJECT_DIR$/src/com/protectedaccess/parentpackage/Parent.java" />
+        <option value="$PROJECT_DIR$/src/com/protectedaccess/parentpackage/sonpackage1/Son1.java" />
+        <option value="$PROJECT_DIR$/src/com/protectedaccess/parentpackage/sonpackage1/Son3.java" />
+        <option value="$PROJECT_DIR$/src/com/leozzy/eleven/SimpleCollection.java" />
+        <option value="$PROJECT_DIR$/src/com/leozzy/eleven/AsListInference.java" />
+        <option value="$PROJECT_DIR$/src/com/leozzy/eleven/AddingGroups.java" />
+        <option value="$PROJECT_DIR$/src/com/leozzy/eleven/RandomAccessTest.java" />
+        <option value="$PROJECT_DIR$/src/com/leozzy/eleven/RandomAccessTimeTest.java" />
+        <option value="$PROJECT_DIR$/src/com/leozzy/eleven/ListFeatures.java" />
+        <option value="$PROJECT_DIR$/src/com/leozzy/eleven/CollectionsSort.java" />
+        <option value="$PROJECT_DIR$/src/com/leozzy/eleven/collection/CollectionSort.java" />
+        <option value="$PROJECT_DIR$/src/com/leozzy/eleven/collection/CollectionsSort.java" />
+        <option value="$PROJECT_DIR$/src/com/leozzy/eleven/collection/ComparatorSort.java" />
+        <option value="$PROJECT_DIR$/src/com/leozzy/eleven/collection/Dog.java" />
+        <option value="$PROJECT_DIR$/src/com/leozzy/eleven/collection/ComparableSort.java" />
+        <option value="$PROJECT_DIR$/src/com/leozzy/seven/CADSystem.java" />
+        <option value="$PROJECT_DIR$/src/com/leozzy/seven/Car.java" />
+        <option value="$PROJECT_DIR$/src/com/leozzy/seven/Orc.java" />
+        <option value="$PROJECT_DIR$/src/com/leozzy/seven/Wind.java" />
+        <option value="$PROJECT_DIR$/src/com/leozzy/seven/finalKey/FinalData.java" />
+        <option value="$PROJECT_DIR$/src/com/leozzy/seven/finalKey/BlankFinal.java" />
+        <option value="$PROJECT_DIR$/src/com/leozzy/seven/finalKey/FinalArguments.java" />
+        <option value="$PROJECT_DIR$/src/com/leozzy/seven/finalKey/FinalOverridingIllusion.java" />
+        <option value="$PROJECT_DIR$/src/com/leozzy/seven/finalKey/Jurassic.java" />
+        <option value="$PROJECT_DIR$/src/com/leozzy/seven/Beetle.java" />
+        <option value="$PROJECT_DIR$/src/com/leozzy/eight.java" />
+        <option value="$PROJECT_DIR$/src/com/leozzy/eight/Note.java" />
+        <option value="$PROJECT_DIR$/src/com/leozzy/eight/Music.java" />
+        <option value="$PROJECT_DIR$/src/com/leozzy/eight/Shapes.java" />
+        <option value="$PROJECT_DIR$/src/com/leozzy/eight/Base.java" />
+        <option value="$PROJECT_DIR$/src/com/leozzy/eight/Generator.java" />
+        <option value="$PROJECT_DIR$/src/com/leozzy/eight/FieldAccess.java" />
+        <option value="$PROJECT_DIR$/src/com/leozzy/eight/StaticPolymorphism.java" />
+        <option value="$PROJECT_DIR$/src/com/leozzy/eight/Sandwich.java" />
       </list>
     </option>
   </component>
@@ -136,14 +203,35 @@
     <option name="width" value="986" />
     <option name="height" value="838" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Internationalization issues</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>NonAsciiCharacters</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
-      <showMembers />
+      <showMembers ProjectPane="false" />
       <showModules />
       <showLibraryContents />
-      <hideEmptyPackages />
+      <hideEmptyPackages ProjectPane="false" />
       <abbreviatePackageNames />
       <autoscrollToSource />
       <autoscrollFromSource />
@@ -152,10 +240,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -172,29 +256,78 @@
               <item name="ThinkingInJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="ThinkingInJava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ThinkingInJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ThinkingInJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="leozzy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ThinkingInJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="ThinkingInJava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="leozzy" type="462c0819:PsiDirectoryNode" />
-              <item name="six" type="462c0819:PsiDirectoryNode" />
+              <item name="eight" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ThinkingInJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ThinkingInJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="leozzy" type="462c0819:PsiDirectoryNode" />
+              <item name="eight" type="462c0819:PsiDirectoryNode" />
+              <item name="FieldAccess.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="ThinkingInJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ThinkingInJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="leozzy" type="462c0819:PsiDirectoryNode" />
+              <item name="eight" type="462c0819:PsiDirectoryNode" />
+              <item name="Sandwich.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="ThinkingInJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ThinkingInJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="leozzy" type="462c0819:PsiDirectoryNode" />
+              <item name="eight" type="462c0819:PsiDirectoryNode" />
+              <item name="Shapes.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="ThinkingInJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ThinkingInJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="leozzy" type="462c0819:PsiDirectoryNode" />
+              <item name="eight" type="462c0819:PsiDirectoryNode" />
+              <item name="StaticPolymorphism.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="image&#9;ACTION&#9;Images.SetBackgroundImage" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -208,15 +341,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Burrito">
-    <configuration name="Burrito" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Sandwich">
+    <configuration name="FieldAccess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.leozzy.five.*" />
+          <option name="PATTERN" value="com.leozzy.eight.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.leozzy.five.Burrito" />
+      <option name="MAIN_CLASS_NAME" value="com.leozzy.eight.FieldAccess" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -228,14 +361,14 @@
       <module name="ThinkingInJava" />
       <envs />
     </configuration>
-    <configuration name="NewVarArgs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Generator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.leozzy.five.*" />
+          <option name="PATTERN" value="com.leozzy.eight.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.leozzy.five.NewVarArgs" />
+      <option name="MAIN_CLASS_NAME" value="com.leozzy.eight.Generator" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -247,14 +380,14 @@
       <module name="ThinkingInJava" />
       <envs />
     </configuration>
-    <configuration name="OverloadingVarargs2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Sandwich" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.leozzy.five.*" />
+          <option name="PATTERN" value="com.leozzy.eight.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.leozzy.five.OverloadingVarargs2" />
+      <option name="MAIN_CLASS_NAME" value="com.leozzy.eight.Sandwich" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -266,14 +399,14 @@
       <module name="ThinkingInJava" />
       <envs />
     </configuration>
-    <configuration name="SimpleEnumUse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Shapes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.leozzy.five.*" />
+          <option name="PATTERN" value="com.leozzy.eight.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.leozzy.five.SimpleEnumUse" />
+      <option name="MAIN_CLASS_NAME" value="com.leozzy.eight.Shapes" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -285,14 +418,14 @@
       <module name="ThinkingInJava" />
       <envs />
     </configuration>
-    <configuration name="VarargType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="StaticPolymorphism" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.leozzy.five.*" />
+          <option name="PATTERN" value="com.leozzy.eight.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.leozzy.five.VarargType" />
+      <option name="MAIN_CLASS_NAME" value="com.leozzy.eight.StaticPolymorphism" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -386,24 +519,27 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.NewVarArgs" />
-      <item index="1" class="java.lang.String" itemvalue="Application.VarargType" />
-      <item index="2" class="java.lang.String" itemvalue="Application.OverloadingVarargs2" />
-      <item index="3" class="java.lang.String" itemvalue="Application.SimpleEnumUse" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Burrito" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Shapes" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Generator" />
+      <item index="2" class="java.lang.String" itemvalue="Application.FieldAccess" />
+      <item index="3" class="java.lang.String" itemvalue="Application.StaticPolymorphism" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Sandwich" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Burrito" />
-        <item index="1" class="java.lang.String" itemvalue="Application.SimpleEnumUse" />
-        <item index="2" class="java.lang.String" itemvalue="Application.OverloadingVarargs2" />
-        <item index="3" class="java.lang.String" itemvalue="Application.VarargType" />
-        <item index="4" class="java.lang.String" itemvalue="Application.NewVarArgs" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Sandwich" />
+        <item index="1" class="java.lang.String" itemvalue="Application.StaticPolymorphism" />
+        <item index="2" class="java.lang.String" itemvalue="Application.FieldAccess" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Generator" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Shapes" />
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -412,48 +548,88 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1511576289107</updated>
-      <workItem from="1511576292811" duration="46225000" />
+      <workItem from="1511576292811" duration="69112000" />
+      <workItem from="1512369838574" duration="46000000" />
+      <workItem from="1512563149812" duration="596000" />
+      <workItem from="1512648628169" duration="3400000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="SpaceShipDelegationTest_testUp - 2017.12.04 at 14h 49m 37s.xml">
+      <configuration name="SpaceShipDelegationTest.testUp" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46225000" />
+    <option name="totallyTimeSpent" value="119108000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="JRebel Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32951945" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32951945" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="JRebel Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3526735" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5389016" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19742489" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
+      <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3993135" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32951945" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39817974" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32951945" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32951945" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="JRebel Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39817974" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32951945" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.44851258" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5389016" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16917293" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16382253" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5389016" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19742489" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
       <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32951945" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -463,365 +639,476 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="7" />
+      <option name="time" value="11" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Leaf.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_66/jre/lib/rt.jar!/com/sun/xml/internal/ws/api/message/MessageHeaders.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="17" lean-forward="false" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-          <folding />
+        <state relative-caret-position="173">
+          <caret line="34" column="12" lean-forward="false" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/leozzy/five/StringTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/leozzy/eleven/SimpleCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leozzy/eleven/AsListInference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="17" column="30" lean-forward="true" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_66/src.zip!/java/lang/Iterable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="44" column="17" lean-forward="false" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_66/src.zip!/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="143" column="40" lean-forward="false" selection-start-line="143" selection-start-column="40" selection-end-line="143" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_66/src.zip!/java/util/RandomAccess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="67" column="1" lean-forward="true" selection-start-line="67" selection-start-column="1" selection-end-line="67" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_66/src.zip!/java/io/Serializable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="170" column="0" lean-forward="true" selection-start-line="170" selection-start-column="0" selection-end-line="170" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_66/src.zip!/java/lang/Cloneable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="52" column="26" lean-forward="false" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leozzy/eleven/AddingGroups.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leozzy/eleven/RandomAccessTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-          <folding />
+          <caret line="26" column="5" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="26" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/leozzy/five/ThisTest01.java">
+    <entry file="file://$PROJECT_DIR$/src/com/leozzy/eleven/RandomAccessTimeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-          <folding>
-            <element signature="e#227#228#0" expanded="false" />
-            <element signature="e#264#265#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="218">
+          <caret line="37" column="19" lean-forward="false" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/leozzy/five/PassingThis.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_66/src.zip!/java/util/ListIterator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="21" column="6" lean-forward="false" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/leozzy/five/Flower.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#313#314#0" expanded="false" />
-            <element signature="e#376#377#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/leozzy/five/Book.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_66/src.zip!/java/lang/Runtime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="687" column="28" lean-forward="true" selection-start-line="687" selection-start-column="28" selection-end-line="687" selection-end-column="28" />
-          <folding>
-            <element signature="e#1272#1273#0" expanded="false" />
-            <element signature="e#1309#1310#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_66/src.zip!/java/lang/System.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="992" column="30" lean-forward="true" selection-start-line="992" selection-start-column="30" selection-end-line="992" selection-end-column="30" />
-          <folding>
-            <element signature="e#40917#40918#0" expanded="false" />
-            <element signature="e#40958#40959#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_66/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="4559" column="25" lean-forward="false" selection-start-line="4559" selection-start-column="25" selection-end-line="4559" selection-end-column="25" />
-          <folding />
+        <state relative-caret-position="201">
+          <caret line="171" column="9" lean-forward="false" selection-start-line="171" selection-start-column="9" selection-end-line="171" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_66/src.zip!/java/lang/Integer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="764" column="26" lean-forward="false" selection-start-line="764" selection-start-column="26" selection-end-line="764" selection-end-column="26" />
-          <folding />
+        <state relative-caret-position="216">
+          <caret line="1234" column="5" lean-forward="true" selection-start-line="1234" selection-start-column="5" selection-end-line="1234" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_66/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1760">
-          <caret line="136" column="11" lean-forward="false" selection-start-line="136" selection-start-column="11" selection-end-line="136" selection-end-column="11" />
-          <folding>
-            <element signature="e#4677#4678#0" expanded="false" />
-            <element signature="e#4714#4715#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/leozzy/five/Tank.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="23" column="34" lean-forward="true" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
-          <folding>
-            <element signature="e#152#153#0" expanded="false" />
-            <element signature="e#188#189#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/leozzy/five/TerminationCondition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/leozzy/five/InitialValues.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-54">
-          <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/leozzy/five/FinalizeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="15" column="6" lean-forward="false" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/leozzy/five/OrderOfInitialization.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-          <folding>
-            <element signature="e#149#150#0" expanded="true" />
-            <element signature="e#186#187#0" expanded="true" />
-            <element signature="e#226#227#0" expanded="true" />
-            <element signature="e#286#287#0" expanded="true" />
-            <element signature="e#464#465#0" expanded="true" />
-            <element signature="e#505#506#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/leozzy/five/StaticInitialization.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="53" column="23" lean-forward="true" selection-start-line="53" selection-start-column="23" selection-end-line="53" selection-end-column="23" />
-          <folding>
-            <element signature="e#198#199#0" expanded="false" />
-            <element signature="e#256#257#0" expanded="false" />
-            <element signature="e#281#282#0" expanded="false" />
-            <element signature="e#337#338#0" expanded="false" />
-            <element signature="e#494#495#0" expanded="false" />
-            <element signature="e#550#551#0" expanded="false" />
-            <element signature="e#783#784#0" expanded="false" />
-            <element signature="e#839#840#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/leozzy/five/ExplicitStatic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
-          <caret line="23" column="26" lean-forward="true" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
-          <folding>
-            <element signature="e#83#84#0" expanded="false" />
-            <element signature="e#140#141#0" expanded="false" />
-            <element signature="e#164#165#0" expanded="false" />
-            <element signature="e#219#220#0" expanded="false" />
-            <element signature="e#246#247#0" expanded="false" />
-            <element signature="e#290#291#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/leozzy/five/Mugs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="15" lean-forward="false" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
-          <folding>
-            <element signature="e#122#123#0" expanded="false" />
-            <element signature="e#179#180#0" expanded="false" />
-            <element signature="e#203#204#0" expanded="false" />
-            <element signature="e#258#259#0" expanded="false" />
-            <element signature="e#321#322#0" expanded="false" />
-            <element signature="e#363#364#0" expanded="false" />
-            <element signature="e#381#382#0" expanded="false" />
-            <element signature="e#428#429#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_66/src.zip!/java/util/Random.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="107" column="24" lean-forward="false" selection-start-line="107" selection-start-column="24" selection-end-line="107" selection-end-column="24" />
-          <folding>
-            <element signature="e#3504#3505#0" expanded="false" />
-            <element signature="e#3562#3563#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/leozzy/five/ArrayNew.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/leozzy/five/DynamicArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="27" />
-          <folding>
-            <element signature="e#123#124#0" expanded="false" />
-            <element signature="e#184#185#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/leozzy/five/MethodInit3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/leozzy/five/ArrayInit.java">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
-          <caret line="9" column="46" lean-forward="true" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+          <caret line="1158" column="0" lean-forward="true" selection-start-line="1158" selection-start-column="0" selection-end-line="1158" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leozzy/eleven/ListFeatures.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="18" column="22" lean-forward="false" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leozzy/eleven/CollectionsSort.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_66/src.zip!/java/lang/Comparable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="95" column="17" lean-forward="false" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_66/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1500">
+          <caret line="108" column="17" lean-forward="false" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leozzy/eleven/collection/ComparatorSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="29" column="23" lean-forward="false" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_66/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="173" column="39" lean-forward="true" selection-start-line="173" selection-start-column="39" selection-end-line="173" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_66/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="621" column="8" lean-forward="false" selection-start-line="621" selection-start-column="8" selection-end-line="621" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leozzy/eleven/collection/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="52" column="13" lean-forward="true" selection-start-line="52" selection-start-column="13" selection-end-line="52" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_66/src.zip!/java/util/AbstractList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="600" column="28" lean-forward="false" selection-start-line="600" selection-start-column="28" selection-end-line="600" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_66/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="472" column="32" lean-forward="true" selection-start-line="472" selection-start-column="32" selection-end-line="472" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_66/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="3798" column="30" lean-forward="false" selection-start-line="3798" selection-start-column="30" selection-end-line="3798" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_66/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="946">
+          <caret line="572" column="21" lean-forward="true" selection-start-line="572" selection-start-column="21" selection-end-line="572" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leozzy/eleven/collection/ComparableSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="40" lean-forward="true" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leozzy/seven/CADSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding>
+            <element signature="e#112#113#0" expanded="false" />
+            <element signature="e#167#168#0" expanded="false" />
+            <element signature="e#188#189#0" expanded="false" />
+            <element signature="e#239#240#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leozzy/seven/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="43" column="5" lean-forward="true" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_66/src.zip!/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="62" column="33" lean-forward="false" selection-start-line="62" selection-start-column="33" selection-end-line="62" selection-end-column="33" />
+        <state relative-caret-position="297">
+          <caret line="234" column="26" lean-forward="false" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/leozzy/five/VarargType.java">
+    <entry file="file://$PROJECT_DIR$/src/com/leozzy/seven/Orc.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="16" column="44" lean-forward="true" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/leozzy/five/NewVarArgs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="9" column="43" lean-forward="true" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/leozzy/five/OverloadingVarargs2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        <state relative-caret-position="348">
+          <caret line="34" column="38" lean-forward="false" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
           <folding>
-            <element signature="e#327#328#0" expanded="true" />
-            <element signature="e#371#372#0" expanded="true" />
+            <element signature="e#129#130#0" expanded="false" />
+            <element signature="e#161#162#0" expanded="false" />
+            <element signature="e#194#195#0" expanded="false" />
+            <element signature="e#226#227#0" expanded="false" />
+            <element signature="e#270#271#0" expanded="false" />
+            <element signature="e#332#333#0" expanded="false" />
+            <element signature="e#660#661#0" expanded="false" />
+            <element signature="e#728#729#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/leozzy/five/Spiciness.java">
+    <entry file="file://$PROJECT_DIR$/src/com/leozzy/seven/Wind.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <element signature="e#94#95#0" expanded="false" />
+            <element signature="e#154#155#0" expanded="false" />
+            <element signature="e#199#200#0" expanded="false" />
+            <element signature="e#232#233#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leozzy/seven/finalKey/FinalData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="46" column="0" lean-forward="true" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leozzy/seven/finalKey/BlankFinal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="24" column="25" lean-forward="false" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+          <folding>
+            <element signature="e#143#144#0" expanded="false" />
+            <element signature="e#169#170#0" expanded="false" />
+            <element signature="e#399#400#0" expanded="false" />
+            <element signature="e#431#432#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leozzy/seven/finalKey/FinalArguments.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leozzy/seven/finalKey/FinalOverridingIllusion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="32" column="45" lean-forward="false" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_66/src.zip!/java/util/Vector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="1244" column="38" lean-forward="true" selection-start-line="1244" selection-start-column="38" selection-end-line="1244" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_66/src.zip!/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="48" column="26" lean-forward="true" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leozzy/seven/finalKey/Jurassic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="20" column="23" lean-forward="false" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#238#239#0" expanded="false" />
+            <element signature="e#259#260#0" expanded="false" />
+            <element signature="e#369#370#0" expanded="false" />
+            <element signature="e#412#413#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leozzy/seven/Beetle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="659">
+          <caret line="49" column="1" lean-forward="false" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
+          <folding>
+            <element signature="e#631#632#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leozzy/eight.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
-          <caret line="6" column="31" lean-forward="false" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+          <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_66/src.zip!/java/lang/Enum.java">
+    <entry file="file://$PROJECT_DIR$/src/com/leozzy/eight/Note.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="103" column="5" lean-forward="true" selection-start-line="103" selection-start-column="5" selection-end-line="103" selection-end-column="5" />
+        <state relative-caret-position="162">
+          <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leozzy/eight/Music.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
           <folding>
-            <element signature="e#2979#2980#0" expanded="true" />
-            <element signature="e#3009#3010#0" expanded="true" />
+            <element signature="e#100#101#0" expanded="true" />
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
+            <element signature="e#355#356#0" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/leozzy/five/SimpleEnumUse.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_66/src.zip!/java/util/concurrent/atomic/AtomicLong.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state relative-caret-position="223">
+          <caret line="114" column="5" lean-forward="true" selection-start-line="114" selection-start-column="5" selection-end-line="114" selection-end-column="5" />
+          <folding>
+            <element signature="e#2737#2738#0" expanded="false" />
+            <element signature="e#2769#2770#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_66/src.zip!/java/util/Random.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="168" column="20" lean-forward="false" selection-start-line="168" selection-start-column="20" selection-end-line="168" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/leozzy/five/ArrayReverse.java">
+    <entry file="file://$PROJECT_DIR$/src/com/leozzy/eight/Shapes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="59" column="41" lean-forward="true" selection-start-line="59" selection-start-column="41" selection-end-line="59" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
+            <element signature="e#336#337#0" expanded="true" />
+            <element signature="e#375#376#0" expanded="true" />
+            <element signature="e#425#426#0" expanded="true" />
+            <element signature="e#494#495#0" expanded="true" />
+            <element signature="e#543#544#0" expanded="true" />
+            <element signature="e#582#583#0" expanded="true" />
+            <element signature="e#632#633#0" expanded="true" />
+            <element signature="e#703#704#0" expanded="true" />
+            <element signature="e#754#755#0" expanded="true" />
+            <element signature="e#793#794#0" expanded="true" />
+            <element signature="e#845#846#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leozzy/eight/Generator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/leozzy/five/Burrito.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
           <folding>
-            <element signature="e#134#135#0" expanded="true" />
-            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#125#126#0" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/leozzy/six/net/mindview/util/Print.java">
+    <entry file="file://$PROJECT_DIR$/src/com/leozzy/eight/Base.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="e#93#94#0" expanded="true" />
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#165#166#0" expanded="true" />
+            <element signature="e#212#213#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leozzy/eight/FieldAccess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+          <folding>
+            <element signature="e#117#118#0" expanded="true" />
+            <element signature="e#145#146#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leozzy/eight/StaticPolymorphism.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding>
+            <element signature="e#109#110#0" expanded="true" />
+            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#182#183#0" expanded="true" />
+            <element signature="e#223#224#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
+            <element signature="e#434#435#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leozzy/eight/Sandwich.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
-          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <caret line="46" column="23" lean-forward="true" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="23" />
           <folding>
-            <element signature="e#159#160#0" expanded="true" />
-            <element signature="e#198#199#0" expanded="true" />
-            <element signature="e#230#231#0" expanded="true" />
-            <element signature="e#266#267#0" expanded="true" />
-            <element signature="e#310#311#0" expanded="true" />
-            <element signature="e#349#350#0" expanded="true" />
-            <element signature="e#417#418#0" expanded="true" />
-            <element signature="e#470#471#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/leozzy/six/PrintTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="46" lean-forward="false" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
-          <folding>
-            <element signature="e#215#216#0" expanded="true" />
-            <element signature="e#244#245#0" expanded="true" />
+            <element signature="e#107#108#0" expanded="true" />
+            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#179#180#0" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
+            <element signature="e#254#255#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
+            <element signature="e#379#380#0" expanded="true" />
+            <element signature="e#420#421#0" expanded="true" />
+            <element signature="e#465#466#0" expanded="true" />
+            <element signature="e#523#524#0" expanded="true" />
+            <element signature="e#576#577#0" expanded="true" />
+            <element signature="e#757#758#0" expanded="true" />
+            <element signature="e#805#806#0" expanded="true" />
+            <element signature="e#851#852#0" expanded="true" />
+            <element signature="e#881#882#0" expanded="true" />
           </folding>
         </state>
       </provider>
