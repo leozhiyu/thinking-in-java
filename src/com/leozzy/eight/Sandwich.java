@@ -19,6 +19,9 @@ class Cheese{
     Cheese(){
         System.out.println("Cheese()");
     }
+    Cheese(int i){
+        System.out.println(i);
+    }
 }
 class Lettuce{
     Lettuce(){
