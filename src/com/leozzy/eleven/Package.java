@@ -1,25 +1,30 @@
 package com.leozzy.eleven;
 
+import com.sun.xml.internal.bind.v2.runtime.reflect.Lister;
+
 /**
  * Created by Leo
  */
-class PhoneColor{
+class Color{
     private String name;
-    public PhoneColor(String name){
+
+    public Color(String name) {
         this.name = name;
     }
+
     public String getName() {
         return name;
     }
+
     public void setName(String name) {
         this.name = name;
     }
 }
-public class Package implements Cloneable {
+public class Package implements Cloneable{
     private String name;
-    private PhoneColor color;
+    private Color color;
 
-    public Package(String name, PhoneColor color) {
+    public Package(String name, Color color) {
         this.name = name;
         this.color = color;
     }
@@ -32,37 +37,40 @@ public class Package implements Cloneable {
         this.name = name;
     }
 
-    public PhoneColor getColor() {
+    public Color getColor() {
         return color;
     }
 
-    public void setColor(PhoneColor color) {
+    public void setColor(Color color) {
         this.color = color;
     }
+
     @Override
-    public Package clone(){
-        Package pkg = null;
-        try{
-            pkg = (Package)super.clone();
-            pkg.setColor(new PhoneColor(pkg.getColor().getName()));
+    protected Object clone() {
+        Package p = null;
+        try {
+            p = (Package) super.clone();
+            p.setColor(new Color(p.getColor().getName()));
         }catch (CloneNotSupportedException e){
             e.printStackTrace();
         }
-        return pkg;
+        return p;
     }
 
     public void print(){
-        System.out.println("Package " + getName() + " => Color is : " + getColor().getName());
+        System.out.println("Package" + getName() + " => Color is " + getColor().getName());
     }
 
     public static void main(String[] args) {
-        Package pkg1 = new Package("Dior",new PhoneColor("Red"));
-        pkg1.print();
+        Package p1 = new Package("Dior",new Color("red"));
+        p1.print();
+        Package p2 = (Package) p1.clone();
+        p2.setName("0007");
+        p2.getColor().setName("White");
+        p1.print();
+        p2.print();
 
-        Package pkg2 = pkg1.clone();
-        pkg2.setName("0007");
-        pkg2.getColor().setName("White");
-        pkg1.print();
-        pkg2.print();
+
+
     }
 }
