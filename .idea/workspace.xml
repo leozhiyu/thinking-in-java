@@ -2,7 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7dbeaf5-4518-4bbd-be73-9d4c0e27da93" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/twelve/customizedexception/MyException.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/twelve/dynamicfieldsexception/DynamicFields.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/twelve/finallywork/FinallyWorks.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/twelve/labelbreak/LabelBreak.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/twelve/loggingexception/LoggingExceptions.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/twelve/loggingexception/LoggingExceptions2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/leozzy/twelve/throwexception/Rethrowing.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/leozzy/XJad/Config.ini" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/leozzy/XJad/Ext.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/leozzy/XJad/Jad.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/leozzy/XJad/Jad.exe" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/leozzy/XJad/XJad.exe" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/leozzy/XJad/readme.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/leozzy/eleven/collection/IterableClass.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/leozzy/ten/DoThis$Inner.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/leozzy/ten/DoThis.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/leozzy/ten/innerclasses/Parcel8$1.class" afterPath="$PROJECT_DIR$/out/production/ThinkingInJava/com/leozzy/ten/innerclasses/Parcel8$1.class" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,7 +31,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="DynamicFields.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/leozzy/twelve/dynamicfieldsexception/DynamicFields.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -54,13 +85,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/leozzy/ten/innerclasses/AnonymousConstructor.java" />
-        <option value="$PROJECT_DIR$/src/com/leozzy/ten/innerclasses/Parcel10.java" />
-        <option value="$PROJECT_DIR$/src/com/leozzy/ten/innerclasses/A.java" />
-        <option value="$PROJECT_DIR$/src/com/leozzy/ten/innerclasses/B.java" />
-        <option value="$PROJECT_DIR$/src/com/leozzy/ten/innerclasses/Service.java" />
-        <option value="$PROJECT_DIR$/src/com/leozzy/ten/innerclasses/Factories.java" />
-        <option value="$PROJECT_DIR$/src/com/leozzy/ten/innerclasses/Games.java" />
         <option value="$PROJECT_DIR$/src/com/leozzy/ten/innerclasses/Parcel11.java" />
         <option value="$PROJECT_DIR$/src/com/leozzy/ten/innerclasses/ClassInInterface.java" />
         <option value="$PROJECT_DIR$/src/com/leozzy/ten/innerclasses/MultiNestingAccess.java" />
@@ -105,6 +129,13 @@
         <option value="$PROJECT_DIR$/src/com/leozzy/eleven/collection/IterableClass.java" />
         <option value="$PROJECT_DIR$/src/com/leozzy/eleven/map/EnvironmentVariables.java" />
         <option value="$PROJECT_DIR$/src/com/leozzy/eleven/collection/ArrayIsNotIterable.java" />
+        <option value="$PROJECT_DIR$/src/com/leozzy/twelve/loggingexception/LoggingExceptions.java" />
+        <option value="$PROJECT_DIR$/src/com/leozzy/twelve/loggingexception/LoggingExceptions2.java" />
+        <option value="$PROJECT_DIR$/src/com/leozzy/twelve/throwexception/Rethrowing.java" />
+        <option value="$PROJECT_DIR$/src/com/leozzy/twelve/customizedexception/MyException.java" />
+        <option value="$PROJECT_DIR$/src/com/leozzy/twelve/finallywork/FinallyWorks.java" />
+        <option value="$PROJECT_DIR$/src/com/leozzy/twelve/labelbreak/LabelBreak.java" />
+        <option value="$PROJECT_DIR$/src/com/leozzy/twelve/dynamicfieldsexception/DynamicFields.java" />
       </list>
     </option>
   </component>
@@ -141,7 +172,154 @@
             <id />
           </State>
           <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Internationalization</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Security</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Usability</id>
+          </State>
+          <State>
+            <id>Android Lint for Kotlin</id>
+          </State>
+          <State>
+            <id>Code maturity issuesJava</id>
+          </State>
+          <State>
+            <id>Code style issuesJava</id>
+          </State>
+          <State>
+            <id>Code style issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+          <State>
+            <id>Control flow issuesGroovy</id>
+          </State>
+          <State>
+            <id>Control flow issuesJava</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Data flow issuesGroovy</id>
+          </State>
+          <State>
+            <id>Declaration redundancyJava</id>
+          </State>
+          <State>
+            <id>ECMAScript 6 migration aidsJavaScript</id>
+          </State>
+          <State>
+            <id>Error handlingJava</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
             <id>Internationalization issues</id>
+          </State>
+          <State>
+            <id>J2ME issuesJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java 7Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 8Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java language level issuesJava</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript validity issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Javadoc issuesJava</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>Memory issuesJava</id>
+          </State>
+          <State>
+            <id>Performance issuesJava</id>
+          </State>
+          <State>
+            <id>Plugin DevKit</id>
+          </State>
+          <State>
+            <id>Portability issuesJava</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsGroovy</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsCoffeeScript</id>
+          </State>
+          <State>
+            <id>Probable bugsGroovy</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>Probable bugsJavaScript</id>
+          </State>
+          <State>
+            <id>Redundant constructsKotlin</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>Security issuesJava</id>
+          </State>
+          <State>
+            <id>Style issuesKotlin</id>
+          </State>
+          <State>
+            <id>Threading issuesGroovy</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
+          </State>
+          <State>
+            <id>Validity issuesGroovy</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+          <State>
+            <id>XSLT</id>
           </State>
         </expanded-state>
         <selected-state>
@@ -157,11 +335,11 @@
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
+      <flattenPackages ProjectPane="false" />
       <showMembers ProjectPane="false" />
       <showModules />
       <showLibraryContents />
-      <hideEmptyPackages ProjectPane="false" />
+      <hideEmptyPackages ProjectPane="true" />
       <abbreviatePackageNames />
       <autoscrollToSource />
       <autoscrollFromSource />
@@ -172,6 +350,8 @@
     <panes>
       <pane id="Scratches" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -197,16 +377,22 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="leozzy" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ThinkingInJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ThinkingInJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="leozzy" type="462c0819:PsiDirectoryNode" />
+              <item name="twelve" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -234,7 +420,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArrayIsNotIterable">
+  <component name="RunManager" selected="Application.LabelBreak">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -242,14 +428,14 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="ArrayIsNotIterable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="FinallyWorks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.leozzy.eleven.collection.*" />
+          <option name="PATTERN" value="com.leozzy.twelve.finallywork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.leozzy.eleven.collection.ArrayIsNotIterable" />
+      <option name="MAIN_CLASS_NAME" value="com.leozzy.twelve.finallywork.FinallyWorks" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -261,14 +447,14 @@
       <module name="ThinkingInJava" />
       <envs />
     </configuration>
-    <configuration name="EnvironmentVariables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="FullConstructors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.leozzy.eleven.map.*" />
+          <option name="PATTERN" value="com.leozzy.twelve.customizedexception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.leozzy.eleven.map.EnvironmentVariables" />
+      <option name="MAIN_CLASS_NAME" value="com.leozzy.twelve.customizedexception.FullConstructors" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -280,14 +466,14 @@
       <module name="ThinkingInJava" />
       <envs />
     </configuration>
-    <configuration name="IterableClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="LabelBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.leozzy.eleven.collection.*" />
+          <option name="PATTERN" value="com.leozzy.twelve.labelbreak.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.leozzy.eleven.collection.IterableClass" />
+      <option name="MAIN_CLASS_NAME" value="com.leozzy.twelve.labelbreak.LabelBreak" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -299,14 +485,14 @@
       <module name="ThinkingInJava" />
       <envs />
     </configuration>
-    <configuration name="NonCollectionSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="LoggingExceptions2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.leozzy.eleven.collection.*" />
+          <option name="PATTERN" value="com.leozzy.twelve.loggingexception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.leozzy.eleven.collection.NonCollectionSequence" />
+      <option name="MAIN_CLASS_NAME" value="com.leozzy.twelve.loggingexception.LoggingExceptions2" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -318,14 +504,14 @@
       <module name="ThinkingInJava" />
       <envs />
     </configuration>
-    <configuration name="PriorityQueueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Rethrowing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.leozzy.eleven.Queue.*" />
+          <option name="PATTERN" value="com.leozzy.twelve.throwexception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.leozzy.eleven.Queue.PriorityQueueDemo" />
+      <option name="MAIN_CLASS_NAME" value="com.leozzy.twelve.throwexception.Rethrowing" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -412,19 +598,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.PriorityQueueDemo" />
-      <item index="1" class="java.lang.String" itemvalue="Application.NonCollectionSequence" />
-      <item index="2" class="java.lang.String" itemvalue="Application.IterableClass" />
-      <item index="3" class="java.lang.String" itemvalue="Application.EnvironmentVariables" />
-      <item index="4" class="java.lang.String" itemvalue="Application.ArrayIsNotIterable" />
+      <item index="0" class="java.lang.String" itemvalue="Application.FullConstructors" />
+      <item index="1" class="java.lang.String" itemvalue="Application.LoggingExceptions2" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Rethrowing" />
+      <item index="3" class="java.lang.String" itemvalue="Application.FinallyWorks" />
+      <item index="4" class="java.lang.String" itemvalue="Application.LabelBreak" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.ArrayIsNotIterable" />
-        <item index="1" class="java.lang.String" itemvalue="Application.EnvironmentVariables" />
-        <item index="2" class="java.lang.String" itemvalue="Application.IterableClass" />
-        <item index="3" class="java.lang.String" itemvalue="Application.NonCollectionSequence" />
-        <item index="4" class="java.lang.String" itemvalue="Application.PriorityQueueDemo" />
+        <item index="0" class="java.lang.String" itemvalue="Application.LabelBreak" />
+        <item index="1" class="java.lang.String" itemvalue="Application.FinallyWorks" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Rethrowing" />
+        <item index="3" class="java.lang.String" itemvalue="Application.FullConstructors" />
+        <item index="4" class="java.lang.String" itemvalue="Application.LoggingExceptions2" />
       </list>
     </recent_temporary>
   </component>
@@ -469,6 +655,8 @@
       <workItem from="1519649096264" duration="2065000" />
       <workItem from="1519652703700" duration="1380000" />
       <workItem from="1519654121580" duration="1291000" />
+      <workItem from="1519655443981" duration="4714000" />
+      <workItem from="1519739588825" duration="6830000" />
     </task>
     <servers />
   </component>
@@ -478,7 +666,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="259642000" />
+    <option name="totallyTimeSpent" value="271186000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -491,34 +679,35 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900944" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32665095" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3278302" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38207546" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900944" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20965843" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27240565" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27240565" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2666309" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27038628" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36749116" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32744405" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32951945" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -537,53 +726,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/typeinfo/pets/pets/Dog.java" />
-    <entry file="file://$PROJECT_DIR$/src/typeinfo/pets/pets/Cat.java" />
-    <entry file="file://$PROJECT_DIR$/src/typeinfo/pets/pets/Mouse.java" />
-    <entry file="file://$PROJECT_DIR$/src/typeinfo/pets/Pug.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/typeinfo/pets/Rat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/typeinfo/pets/Rodent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/typeinfo/pets/Cat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/typeinfo/pets/Cymric.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/typeinfo/pets/Dog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/leozzy/Temp.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_66/src.zip!/java/lang/Class.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_66/src.zip!/java/lang/Object.java" />
     <entry file="file://$PROJECT_DIR$/src/typeinfo/pets/Individual.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -753,6 +895,107 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/development/Java/jdk1.8.0_66/src.zip!/java/io/StringWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4031">
+          <caret line="40" column="13" lean-forward="false" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/development/Java/jdk1.8.0_66/src.zip!/java/util/logging/Logger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="1461" column="16" lean-forward="false" selection-start-line="1461" selection-start-column="16" selection-end-line="1461" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/development/Java/jdk1.8.0_66/src.zip!/java/io/PrintWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="98" column="11" lean-forward="false" selection-start-line="98" selection-start-column="11" selection-end-line="98" selection-end-column="11" />
+          <folding>
+            <element signature="e#2748#2749#0" expanded="false" />
+            <element signature="e#2780#2781#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leozzy/twelve/loggingexception/LoggingExceptions2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="13" column="41" lean-forward="false" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leozzy/twelve/loggingexception/LoggingExceptions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="25" column="46" lean-forward="false" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/development/Java/jdk1.8.0_66/src.zip!/java/lang/Throwable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="779" column="33" lean-forward="false" selection-start-line="779" selection-start-column="24" selection-end-line="779" selection-end-column="33" />
+          <folding>
+            <element signature="e#29535#29536#0" expanded="false" />
+            <element signature="e#29593#29594#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leozzy/twelve/throwexception/Rethrowing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leozzy/twelve/customizedexception/MyException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-432">
+          <caret line="19" column="45" lean-forward="false" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
+          <folding>
+            <element signature="e#263#264#0" expanded="false" />
+            <element signature="e#289#290#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leozzy/twelve/finallywork/FinallyWorks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="15" column="11" lean-forward="true" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leozzy/twelve/labelbreak/LabelBreak.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="34" lean-forward="true" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leozzy/twelve/dynamicfieldsexception/DynamicFields.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
